@@ -1,6 +1,6 @@
 # # 🎬 Movie-Recommender-GNN
 
-This project implements a state-of-the-art **Recommendation System** using **Graph Neural Networks (GNN)**. 
+This project implements a state-of-the-art **Recommendation System** using **Graph Neural Networks (GNN)**.
 
 ## 🚀 Features
 
